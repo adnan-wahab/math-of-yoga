@@ -1,10 +1,11 @@
 
-import './style.css'
+
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js'
 import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import gsap from 'gsap'
 import * as dat from 'dat.gui'
+import './style.css'
 // Scene
 // const scene = new THREE.Scene()
 
